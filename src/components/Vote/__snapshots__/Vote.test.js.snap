@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Vote /> toMatchSnapshot 1`] = `
+<div
+  className="Vote-content-1"
+>
+  <span
+    className="Vote-content-1"
+  >
+    7.4
+  </span>
+  <canvas
+    className="Vote-canvas-2"
+  />
+</div>
+`;
